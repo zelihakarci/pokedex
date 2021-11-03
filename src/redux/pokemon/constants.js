@@ -1,0 +1,9 @@
+export const GET_POKEMON_LIST = 'GET_POKEMON_LIST';
+export const SPINNER = 'SPINNER';
+export const SET_POKEMON = 'SET_POKEMON';
+export const SET_CATCH_POKEMON = 'SET_CATCH_POKEMON';
+export const ADD_FAVORITES = 'ADD_FAVORITES';
+export const REMOVE_FAVORITES = 'REMOVE_FAVORITES';
+export const DELETE_POKEMONS = 'DELETE_POKEMONS';
+export const IS_DARK_THEME = 'IS_DARK_THEME';
+
