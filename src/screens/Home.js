@@ -16,7 +16,7 @@ const Home = () => {
   }, [dispatch]);
   const [visibleSettings, setVisibleSettings] = useState(false);
   return (
-    <View style={{flex: 1, marginTop: 50, backgroundColor: colors.background}}>
+    <View style={{flex: 1, backgroundColor: colors.background}}>
       <Header
         onPressSettings={() => {
           setVisibleSettings(!visibleSettings);
